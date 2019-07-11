@@ -1,0 +1,74 @@
+#template1 {
+    background-color: dodgerblue;
+
+}
+
+#title1 {
+    color: goldenrod;
+    margin-left: 20px;
+}
+
+#nav1 {
+    background-color: darkgreen;
+    margin-left: 20px;
+}
+
+#nav1menu1 {
+    color: gold;
+    margin-left: 20px;
+}
+
+#template1p1 {
+    color: whitesmoke;
+    margin-left: 20px;
+}
+
+#template2 {
+    background-color: navy;
+
+}
+
+#title2 {
+    color: navajowhite;
+    margin-left: 20px;
+}
+
+#nav2 {
+    background-color: forestgreen;
+    margin-left: 20px;
+}
+
+#nav2menu1 {
+    color: orange;
+    margin-left: 20px;
+}
+
+#template2p1 {
+    color: whitesmoke;
+    margin-left: 20px;
+}
+
+#template3 {
+    background-color: seagreen;
+
+}
+
+#title3 {
+    color: darkorange;
+    margin-left: 20px;
+}
+
+#nav3 {
+    background-color: royalblue;
+    margin-left: 20px;
+}
+
+#nav3menu1 {
+    color: white;
+    margin-left: 20px;
+}
+
+#template3p1 {
+    color: whitesmoke;
+    margin-left: 20px;
+}
