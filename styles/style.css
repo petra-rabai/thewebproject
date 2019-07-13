@@ -57,7 +57,7 @@ body{
 }
 
 #title3 {
-    color: darkorange;
+    color: rgb(255, 204, 0);
     margin-left: 20px;
 }
 
@@ -74,4 +74,21 @@ body{
 #template3p1 {
     color: whitesmoke;
     margin-left: 20px;
+}
+#template4{
+    background-color: rgb(101, 135, 235);
+}
+#title4{
+    color: whitesmoke;
+    margin-left: 20px;
+}
+#nav4{
+    margin-left: 20px;
+}
+#template4p1{
+    color: whitesmoke;
+    margin-left: 20px;
+}
+#nav4menu1{
+    border: 5px solid darkgreen;
 }
